@@ -4,17 +4,3 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
-
-  /*this is for testing, remove this to validate file is working*/
-  background-color:#333;
-}
-
-.data.table tr td div.action .file{
-  opacity:0;
-}
-
-.data.table tr.hover td div.action .file{
-  opacity:1;
-}

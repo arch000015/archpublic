@@ -1,6 +1,2 @@
-@import 'partial';
-
-BODY {
-  background-color: red;
-}
+$someVar: 123px; .some-selector { width: $someVar; }
 

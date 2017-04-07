@@ -94,6 +94,13 @@ label {
     padding-bottom: 1rem;
 }
 
+.data.table tr td div.action{
+  opacity:0;
+}
+
+.data.table tr.hover td div.action{
+  opacity:1;
+}
 
 
 

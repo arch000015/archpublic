@@ -94,6 +94,8 @@ label {
     padding-bottom: 1rem;
 }
 
+
+//---------------------------------------------Grant
 .data.table tr td div.action{
   opacity:0;
 }
@@ -102,8 +104,10 @@ label {
   opacity:1;
 }
 
-
-
+.template{
+  display:none;
+}
+//--------------------------------------------------
 
 
 

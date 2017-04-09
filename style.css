@@ -111,8 +111,24 @@ table.dataTable tbody th, table.dataTable tbody td{
     padding: 19px 10px;
 }
 
+table.dataTable thead .sorting{
+    background-image: url();
+}
+
 .download, .remove{
     display: inline;
+}
+
+table.dataTable thead .sorting{
+    background-image:url("/")
+}
+
+table.dataTable thead .sorting_asc{
+    background-image:url("/")
+}
+
+table.dataTable thead .sorting_desc{
+    background-image:url("/")
 }
 
 

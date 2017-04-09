@@ -120,15 +120,15 @@ table.dataTable thead .sorting{
 }
 
 table.dataTable thead .sorting{
-    background-image:url("/")
+    background-image:url("archpublic/icon-sort-both.svg")
 }
 
 table.dataTable thead .sorting_asc{
-    background-image:url("/")
+    background-image:url("archpublic/icon-sort-asc.svg")
 }
 
 table.dataTable thead .sorting_desc{
-    background-image:url("/")
+    background-image:url("archpublic/icon-sort-desc.svg")
 }
 
 

@@ -102,6 +102,12 @@ label {
     background-color: #F5F5F5;
 }
 
+.download, .remove{
+    display: inline;
+}
+
+
+
 
 //---------------------------------------------Grant
 .data.table tr td div.action{

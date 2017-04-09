@@ -96,6 +96,7 @@ label {
 .filename2{
     color:#6C6C6C;
     font-size: 14px;
+    font-weight: 400;
 }
 
 .table.dataTable tbody tr {

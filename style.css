@@ -1,10 +1,10 @@
 .header{
     background-color: #1C456E;
+    margin-bottom: 30px;
 }
 
 .navbar{
     padding: 0;
-    margin-bottom: 20px;
 }
 
 .rounded-corners{

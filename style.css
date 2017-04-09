@@ -99,8 +99,12 @@ label {
     font-weight: 400;
 }
 
-.table.dataTable tbody tr {
+table.dataTable tbody tr {
     background-color: #F5F5F5;
+}
+
+table.dataTable thead th, table.dataTable thead td{
+    padding: 10px 8px;
 }
 
 .download, .remove{

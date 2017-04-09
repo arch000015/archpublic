@@ -107,6 +107,10 @@ table.dataTable thead th, table.dataTable thead td{
     padding: 10px 8px;
 }
 
+table.dataTable tbody th, table.dataTable tbody td{
+    padding: 19px 10px;
+}
+
 .download, .remove{
     display: inline;
 }

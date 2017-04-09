@@ -98,6 +98,10 @@ label {
     font-size: 14px;
 }
 
+.table.dataTable tbody tr {
+    background-color: #F5F5F5;
+}
+
 
 //---------------------------------------------Grant
 .data.table tr td div.action{

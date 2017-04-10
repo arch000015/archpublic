@@ -137,6 +137,10 @@ table.dataTable thead .sorting_desc{
     background-image:url("/images/icon-sort-desc.svg")
 }
 
+.table td, .table th {
+    border-top: none;
+}
+
 
 
 

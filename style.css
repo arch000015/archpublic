@@ -138,7 +138,7 @@ table.dataTable thead .sorting_desc{
 }
 
 .table td, .table th {
-    border-top: none;
+    border-top: 0;
 }
 
 

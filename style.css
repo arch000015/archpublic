@@ -99,6 +99,12 @@ label {
     font-weight: 400;
 }
 
+//-------------------------------table
+
+
+.row{
+    border-bottom: 1px solid #ddd;
+}
 
 table.dataTable tbody tr {
     background-color: #F5F5F5;

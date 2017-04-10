@@ -141,6 +141,16 @@ table.dataTable thead .sorting_desc{
     border-top: 0;
 }
 
+//---------------------------------------------Sign-in
+
+.signinWrapper{
+    background: #fff;
+    border: 1px solid #D8D8D8;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
 
 
 

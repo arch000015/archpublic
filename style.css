@@ -109,6 +109,10 @@ table.dataTable thead th, table.dataTable thead td{
     border-bottom: 1px solid #ddd;
 }
 
+table.dataTable.no-footer {
+    border-bottom: 1px solid #ddd;
+}
+
 table.dataTable tbody th, table.dataTable tbody td{
     padding: 19px 10px;
 }

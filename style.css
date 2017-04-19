@@ -169,6 +169,10 @@ input{
     border-radius: 0;
 }
 
+.modal-header{
+    padding: 20px 20px 10px 20px;
+}
+
 .modal-body{
     padding: 10px 20px;
 }

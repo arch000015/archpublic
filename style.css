@@ -130,6 +130,7 @@ table.dataTable tbody th, table.dataTable tbody td{
 
 .download, .remove{
     display: inline;
+    margin-left: 10px;
 }
 
 table.dataTable thead .sorting{

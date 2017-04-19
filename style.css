@@ -164,6 +164,14 @@ input{
 
 .file .name{
     margin-right: 6px;
+    font-weight: 500;
+    color: #1C456E;
+}
+
+.usertype{
+    color:#6C6C6C;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 

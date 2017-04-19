@@ -88,6 +88,11 @@ label {
     position: relative;
 }
 
+.svg-icon{
+    display: inline-block;
+    vertical-align: middle;
+}
+
 .table td{
     padding-top: 1rem;
     padding-bottom: 1rem;

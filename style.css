@@ -91,6 +91,7 @@ label {
 .svg-icon{
     display: inline-block;
     vertical-align: middle;
+    margin-top: -3px;
 }
 
 .table td{

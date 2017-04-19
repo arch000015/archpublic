@@ -171,6 +171,7 @@ input{
 
 .modal-header{
     padding: 20px 20px 10px 20px;
+    border-bottom: 0;
 }
 
 .modal-body{

@@ -178,6 +178,11 @@ input{
     padding: 10px 20px;
 }
 
+.close {
+    position: absolute;
+    right: 20px;
+}
+
 
 
 //---------------------------------------------Grant

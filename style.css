@@ -161,6 +161,10 @@ input[type=radio]{
     height: inherit;
 }
 
+.icon-file, .icon-user {
+    margin-right: 8px;
+}
+
 .signinWrapper{
     background: #fff;
     border: 1px solid #D8D8D8;

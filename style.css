@@ -105,10 +105,6 @@ label {
     border-bottom: 1px solid #ddd;
 }
 
-table.dataTable tbody tr {
-    background-color: #F5F5F5;
-}
-
 table.dataTable thead th, table.dataTable thead td{
     padding: 10px 8px;
     border-bottom: 1px solid #ddd;
@@ -120,6 +116,7 @@ table.dataTable.no-footer {
 
 table.dataTable tbody th, table.dataTable tbody td{
     padding: 19px 10px;
+    border-bottom: 1px solid #d8d8d8;
 }
 
 table.dataTable thead .sorting{

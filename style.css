@@ -156,7 +156,9 @@ input{
 }
 
 input[type=radio]{
-    height: inherit;
+    height: 2em;
+    border: 0px;
+    width: 100%;
 }
 
 .signinWrapper{

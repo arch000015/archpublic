@@ -164,6 +164,10 @@ input{
     width: 100%;
 }
 
+.file .name{
+    margin-right: 6px;
+}
+
 
 
 

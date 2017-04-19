@@ -116,7 +116,7 @@ table.dataTable.no-footer {
 
 table.dataTable tbody th, table.dataTable tbody td{
     padding: 19px 10px;
-    border-bottom: 1px solid #d8d8d8;
+    border-bottom: 2px solid #d8d8d8;
 }
 
 table.dataTable thead .sorting{

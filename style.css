@@ -107,7 +107,7 @@ label {
 
 table.dataTable thead th, table.dataTable thead td{
     padding: 10px 8px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 2px solid #ddd;
 }
 
 table.dataTable.no-footer {
@@ -116,11 +116,7 @@ table.dataTable.no-footer {
 
 table.dataTable tbody th, table.dataTable tbody td{
     padding: 19px 10px;
-    border-bottom: 2px solid #d8d8d8;
-}
-
-table.dataTable thead .sorting{
-    background-image: url();
+    border-bottom: 1px solid #d8d8d8;
 }
 
 .download, .remove{
@@ -143,7 +139,9 @@ table.dataTable thead .sorting_desc{
     border-top: 0;
 }
 
-
+table.dataTable tbody tr {
+    background-color: transparent;
+}
 
 input{
     height: 40px;

@@ -158,6 +158,10 @@ table.dataTable thead .sorting_desc{
     max-width: 320px;
 }
 
+.signinWrapper input, .signinWrapper button{
+    width: 100%;
+}
+
 
 
 

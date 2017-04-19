@@ -148,7 +148,9 @@ table.dataTable thead .sorting_desc{
 
 
 
-
+input{
+    height: 40px;
+}
 
 .signinWrapper{
     background: #fff;

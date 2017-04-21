@@ -19,6 +19,10 @@ html, body {
     text-align: center;
 }
 
+.sign-in-logo {
+    margin-bottom: -5px;
+}
+
 .header{
     background-color: #1C456E;
     margin-bottom: 30px;

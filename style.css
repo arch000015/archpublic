@@ -67,10 +67,6 @@ input{
     font-family: 'Roboto', sans-serif;
 }
 
-#login-page .container {
-    max-width: 320px;
-}
-
 .login-box {
     background: #fff;
     border: 1px solid #D8D8D8;
@@ -191,7 +187,7 @@ input[type=radio]{
     border: 1px solid #D8D8D8;
     border-radius: 5px;
     padding: 20px;
-    max-width: 320px;
+    width: 300px;
 }
 
 .signinWrapper input, .signinWrapper button{

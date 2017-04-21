@@ -11,6 +11,10 @@ body {
     width: 1024px;
 }
 
+h3 {
+    font-size: 22px;
+}
+
 .container-sm{
     height: 100%;
     padding: 0;

@@ -15,6 +15,10 @@ html, body {
     justify-content: center;
 }
 
+.logo-login{
+    text-align: center;
+}
+
 .header{
     background-color: #1C456E;
     margin-bottom: 30px;

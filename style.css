@@ -45,6 +45,10 @@ h3 {
     padding: 0;
 }
 
+.active {
+    border-bottom: 2px solid #fff;
+}
+
 .rounded-corners{
     border-radius: 20px;
 }

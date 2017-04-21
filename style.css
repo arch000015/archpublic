@@ -210,12 +210,16 @@ input[type=radio]{
 .file .name{
     margin-right: 6px;
     font-weight: 700;
-    color: #2A69A8;
+    color: #1C456E;
+}
+
+.media{    
+    opacity: 0.8;
 }
 
 .media:hover{
     text-decoration: none;    
-    opacity: 0.6;
+    opacity: 1;
 }
 
 .usertype{

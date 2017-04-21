@@ -208,12 +208,9 @@ input[type=radio]{
     color: #2A69A8;
 }
 
-.file .name:hover{
-    color: #5F97CF;
-}
-
 .media:hover{
-    text-decoration:none
+    text-decoration: none;    
+    opacity: 0.6;
 }
 
 .usertype{

@@ -205,7 +205,15 @@ input[type=radio]{
 .file .name{
     margin-right: 6px;
     font-weight: 700;
-    color: #1C456E;
+    color: #2A69A8;
+}
+
+.file .name:hover{
+    color: #5F97CF;
+}
+
+.media:hover{
+    text-decoration:none
 }
 
 .usertype{

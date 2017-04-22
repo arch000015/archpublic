@@ -90,6 +90,9 @@ h4 {
 
 a {
     color: #1C456E;
+}
+
+a, .btn {
     cursor: pointer;
 }
 

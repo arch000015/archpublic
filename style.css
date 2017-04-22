@@ -59,6 +59,18 @@ h3 {
     font-size: 14px;
 }
 
+.input-full{
+    width: 100%;
+}
+
+.btn-primary{
+    background-color: #1C456E;
+}
+
+.btn-primary:disabled{
+    background-color: #D8D8D8;
+}
+
 a {
     color: #1C456E;
 }

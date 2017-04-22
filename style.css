@@ -9,6 +9,7 @@ body {
 
 .container {
     width: 1024px;
+    max-width: inherit;
 }
 
 h3 {

@@ -3,21 +3,19 @@ html, body {
 }
 
 body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 24px;
+    font-size: 16px;
+    background-color: #F5F5F5;
+    font-weight: 400;
+    color: #4A4A4A;
 }
 
 .container {
     width: 1024px;
     max-width: inherit;
-}
-
-h3 {
-    font-size: 22px;
-}
-
-h4 {
-    font-size: 20px;
 }
 
 .container-sm{
@@ -31,6 +29,14 @@ h4 {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 20px;
 }
 
 .logo-login{
@@ -64,18 +70,6 @@ h4 {
     font-size: 14px;
 }
 
-.input:focus{
-    border: 1px solid #1C456E;
-}
-
-.input-full{
-    width: 100%;
-}
-
-.input-fixed{
-    width: 320px;
-}
-
 .btn-primary{
     background-color: #1C456E;
 }
@@ -92,30 +86,24 @@ h4 {
     border: 1px solid #1C456E;
 }
 
+.input:focus{
+    border: 1px solid #1C456E;
+}
+
+.input-full{
+    width: 100%;
+}
+
+.input-fixed{
+    width: 320px;
+}
+
 a {
     color: #1C456E;
 }
 
 a, .btn {
     cursor: pointer;
-}
-
-.zondicon {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 8px;
-    left: 10px;
-}
-
-
-body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 24px;
-    font-size: 16px;
-    background-color: #F5F5F5;
-    font-weight: 400;
-    color: #4A4A4A;
 }
 
 button{

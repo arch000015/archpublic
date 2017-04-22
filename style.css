@@ -88,6 +88,10 @@ h4 {
     background-color: #2864A1;
 }
 
+.btn-default:hover{
+    border: 1px solid #1C456E;
+}
+
 a {
     color: #1C456E;
 }

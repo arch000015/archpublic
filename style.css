@@ -161,6 +161,10 @@ label {
     position: relative;
 }
 
+.signinButton{
+    text-align: center;
+}
+
 .text-link:hover{
     text-decoration: underline;
 }

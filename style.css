@@ -98,6 +98,11 @@ h4 {
     width: 320px;
 }
 
+.alert-danger{
+    margin-top: 20px;
+    text-align: center;
+}
+
 a {
     color: #1C456E;
 }

@@ -111,7 +111,7 @@ a {
     color: #1C456E;
 }
 
-a, .btn {
+a, .btn, .text-link {
     cursor: pointer;
 }
 
